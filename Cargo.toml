@@ -1,6 +1,6 @@
 [package]
 name = "cargo-suicide"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["Denis Kolodin <deniskolodin@gmail.com>"]
 description = "Tool to fix your code forever"
 repository = "https://github.com/DenisKolodin/cargo-suicide"

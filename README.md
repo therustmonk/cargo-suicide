@@ -11,7 +11,7 @@ If you feel it's time to start living in a new way than this `cargo` subcommand 
 Install the tool using this command:
 
 ```
-cargo install suicide
+cargo install cargo-suicide
 ```
 
 ### Running
