@@ -1,5 +1,5 @@
 [package]
-name = "suicide"
+name = "cargo-suicide"
 version = "0.1.1"
 authors = ["Denis Kolodin <deniskolodin@gmail.com>"]
 description = "Tool to fix your code forever"
