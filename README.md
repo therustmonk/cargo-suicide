@@ -28,15 +28,10 @@ If you had written shitcode before it will drop any changes everytime.
 ### God Mode
 
 If the subcommand dropped your changes, but you feel happy because your editor
-remains open than try `--god` mode:
+remains open than try `--god` mode. It will kill you editor as well:
 
 ```
 cargo suicide --god
 ```
 
-It will kill you editor as well.
-
-Kill the shitcoder in you!
-
-> But remember, at the time of writing this subcommand, I accidentally
-killed `vim` with unsaved changes of an important project 😢
+![Gif with a Cat](https://media.giphy.com/media/uzglgIsyY1Cgg/giphy.gif)
