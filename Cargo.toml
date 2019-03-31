@@ -2,6 +2,11 @@
 name = "suicide"
 version = "0.1.1"
 authors = ["Denis Kolodin <deniskolodin@gmail.com>"]
+description = "Tool to fix your code forever"
+repository = "https://github.com/DenisKolodin/cargo-suicide"
+readme = "README.md"
+license = "Apache-2.0/MIT"
+categories = ["development-tools"]
 edition = "2018"
 
 [dependencies]
